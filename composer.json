@@ -1,0 +1,17 @@
+{
+    "name": "dengkai/mycomposer",
+    "description": "生成随机数",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dengkai\\Mycomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mr.Deng"
+        }
+    ],
+    "require": {}
+}
